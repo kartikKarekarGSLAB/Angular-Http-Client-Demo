@@ -1,0 +1,7 @@
+{
+  "/api/*": {
+    "target": "https://px.demo.extendedcaresolutions.com/v2",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
